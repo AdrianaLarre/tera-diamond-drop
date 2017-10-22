@@ -38,10 +38,10 @@ module.exports = function pingRemover(dispatch){
 				item: 369,
 				amount: 1,
 				expiry: 120,
-				unk1: 0,
+				unk1: 1,
 				unk2: 0,
 				mob: e.target,
-				unk3: 1,
+				unk3: 0,
 				owners: [{id: cid}]
 				
 			});
