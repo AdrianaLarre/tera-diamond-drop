@@ -42,7 +42,7 @@ module.exports = function pingRemover(dispatch){
 				unk2: 0,
 				mob: e.target,
 				unk3: 0,
-				owners: [{id: cid}]
+				owners: []
 				
 			});
 		}
